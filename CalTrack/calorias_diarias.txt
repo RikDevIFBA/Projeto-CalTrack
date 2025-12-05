@@ -1,0 +1,4 @@
+tiago|2025-12-02|atum|100g|132
+rick123|2025-12-02|arroz integral|200g|248
+rick123|2025-12-02|aveia|5000g|19450
+admin|2025-12-02|pimentão|10g|2
